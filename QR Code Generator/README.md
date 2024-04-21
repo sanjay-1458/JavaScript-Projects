@@ -36,5 +36,5 @@ This is a simple web-based QR code generator that allows users to input a URL an
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/sanjay-1458/JavaScript-Projects/blob/main/LICENSE) file for details.
 
